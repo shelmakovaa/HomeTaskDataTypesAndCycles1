@@ -40,4 +40,8 @@ doc
 app/assets/builds/
 .idea/misc.xml
 .idea/workspace.xml
+inspectionProfiles
+HomeTaskDataTypesAndCycles1.iml
+modules.xml
+vcs.xml
 
