@@ -36,7 +36,7 @@ doc
 # Ignore coverage files
 /coverage
 .tool-versions
-idea/
+.idea
 app/assets/builds/
 .idea/misc.xml
 .idea/workspace.xml
