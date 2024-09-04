@@ -1,6 +1,7 @@
 # Ignore bundler config.
 /.bundle
 
+
 # Ignore the default SQLite database.
 /db/*.sqlite3*
 /db/*.sqlite3-journal
@@ -31,12 +32,15 @@ yarn-debug.log*
 .yardoc
 doc
 .env
+../../.venv/
+venv/
 .venv/
 
 # Ignore coverage files
 /coverage
 .tool-versions
-.idea
+idea/
+../../.idea/
 app/assets/builds/
 .idea/misc.xml
 .idea/workspace.xml
